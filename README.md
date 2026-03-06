@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi there / Bonjour  👋
+*Ingénieur logiciel basé à Montréal, passionné par la création d’outils qui aident à résoudre des problèmes.*
 
-I'm Joey, a software engineer based in Montreal, QC, Canada.
-
-I enjoy building things I'm interested in and creating tools that help solve real-world problems.
+I'm Joey, a software engineer based in Montreal, QC, Canada. I enjoy building things I'm interested in and creating tools that help solve real-world problems.
 
 ### 🛠 Tech Stack
 
