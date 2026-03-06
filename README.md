@@ -12,19 +12,19 @@ My main tech stack is:
 * React
 * Linux
 
-### 🚀 What I'm Working On
+### 🔭 I’m currently working on ...
 
 * Building personal projects to improve my skills
 * Exploring new tools and technologies
 * Learning more about designing intelligent systems and AI agents
 
-### 🌱 Currently Learning
+### 🌱 I’m currently learning ...
 
 * Advanced Python for AI & automation
 * Building AI agents and intelligent systems
 * New programming languages (e.g., C#)
 
-### 📫 Reach Me
+### 📫 How to reach me
 
 If you'd like to connect, feel free to reach out on my
 [LinkedIn](https://www.linkedin.com/in/joey-rabel-paquette-2a9583219/)
@@ -33,7 +33,7 @@ If you'd like to connect, feel free to reach out on my
 
 * I love reading. 📚
 * Big fan of gym, basketball, and staying active. 🏀
-* Movie lover—especially Christopher Nolan films. 🎬  
+* Movie lover - especially Christopher Nolan films. 🎬  
 
 <!--
 **1chosenone/1chosenone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
